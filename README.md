@@ -9,7 +9,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Installation
 
 ```bash
-git clone https://github.com/.git
+git clone https://github.com/ErickNyagilo/FullCallender.git
 cd calender
 npm install
 ```
